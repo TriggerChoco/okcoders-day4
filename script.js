@@ -1,1 +1,3 @@
-console.log("hello world");
+window.onload = () => {
+    const container = document.getElementById('container');
+  };
